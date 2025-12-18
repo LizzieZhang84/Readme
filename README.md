@@ -1,7 +1,25 @@
-- 👋 Hi, I’m @LizzieZhang84
-- 👀 I’m interested in the development and applications of LLMs, and NLP in general.
-- 🌱 I’m currently a CLMS student at the University of Washington. Before that,  I was an undergrad at Tsinghua University.
-- 📫 You can reach me at ruiru[at]uw[dot]edu
+# Hi there, I'm Lizzie 👋
+
+**Algorithm Engineer at Alibaba Cloud**  
+Focusing on LLM Post-training and Data synthesis
+
+---
+
+### 🎓 Education
+- **University of Washington**, Master of Science in Computational Linguistics
+- **Tsinghua University**, Bachelor of Arts in English Language (Linguistics)
+
+### 💻 Working On
+- 🚀 Scaling up SuperSmartStudio/SmartStudio/VoiceInsight at Alibaba Cloud.
+- 🛠️ Building efficient and scalable AI applications.
+- 📖 Exploring the frontiers of LLM Post-training and Data synthesis.
+
+### 📫 Get in touch
+- **LinkedIn**: www.linkedin.com/in/ruiru-lizzie-zhang
+- **Email**: zrr0804lizzie@gmail.com
+
+---
+*"Stay hungry, stay foolish."*
 
 <!---
 LizzieZhang84/LizzieZhang84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
